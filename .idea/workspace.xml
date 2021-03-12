@@ -21,9 +21,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c06466ed-1121-4281-9358-dac240b4e14d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inventory" beforeDir="false" afterPath="$PROJECT_DIR$/inventory" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inventory_children" beforeDir="false" afterPath="$PROJECT_DIR$/inventory_children" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/motd.j2" beforeDir="false" afterPath="$PROJECT_DIR$/templates/motd.j2" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,7 +123,7 @@
       <workItem from="1615383722599" duration="2666000" />
       <workItem from="1615450385894" duration="31000" />
       <workItem from="1615456383862" duration="6115000" />
-      <workItem from="1615540501582" duration="2432000" />
+      <workItem from="1615540501582" duration="4334000" />
     </task>
     <task id="LOCAL-00001" summary="minor changes">
       <created>1591282108822</created>
